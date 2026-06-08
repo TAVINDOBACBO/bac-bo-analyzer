@@ -1,1 +1,4 @@
 run = "python3 main.py"
+
+[agent]
+expertMode = true
