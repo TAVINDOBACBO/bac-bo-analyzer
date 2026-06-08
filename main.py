@@ -313,7 +313,7 @@ def main_entry_text(color: str) -> str:
         f"♻️ | Fazer máximo G1\n"
         f"💻 | Abra o jogo pelo link abaixo ⤵️\n"
         f"\n"
-        f'<a href="https://btt-pt.hopghpfa.com/pt/casino?partner=p8506p33116p4649#registration-bonus">👉Regista-te aqui: BETILT</a>'
+        f'<a href="https://j19wme.com/?pid=1161526085">👉Regista-te aqui: 55ww22</a>'
     )
 
 async def send_gale_warning(level: int):
